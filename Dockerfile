@@ -9,7 +9,7 @@ RUN pip3 install joblib
 
 RUN pip3 install scikit-learn
 
-COPY marks_model.pkl /
+COPY marks_model.pk1 /
 
 COPY runmodel.py /
 
